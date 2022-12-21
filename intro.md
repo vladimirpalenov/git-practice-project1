@@ -8,6 +8,7 @@
 * three
 * 4
 
+### Italic font example
 _italic_
 
 ---
